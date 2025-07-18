@@ -2,7 +2,7 @@
 
 Deploy the classic **2048 game** using **AWS EKS (Fargate)** with **Ingress** and **AWS Load Balancer Controller**.
 
-![image](https://github.com/krunalbhandekar/2048-game-aws-kubernetes-ingress/blob/main/assets/2048_live.png)
+![image](https://github.com/himanshivarghane04/2048-GameProject/blob/main/assets/2048Game.png)
 
 ---
 
